@@ -9,6 +9,6 @@ WHERE T1.municipality_name ILIKE '%pamplona%'
 ORDER BY T1.municipality_name ASC;
 
 /*
-(PASTE HERE the first 10 rows of the result)
-(N rows)
+"54518"	"Pamplona"
+(1 row)
 */

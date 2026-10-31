@@ -9,6 +9,15 @@ WHERE T1.department_code = '54'
 ORDER BY T1.municipality_name ASC;
 
 /*
-(PASTE HERE the first 10 rows of the result)
-(N rows)
+"54003"	"Ábrego"
+"54051"	"Arboledas"
+"54099"	"Bochalema"
+"54109"	"Bucarasica"
+"54128"	"Cáchira"
+"54125"	"Cácota"
+"54172"	"Chinácota"
+"54174"	"Chitagá"
+"54206"	"Convención"
+"54001"	"Cúcuta"
+(40 rows)
 */

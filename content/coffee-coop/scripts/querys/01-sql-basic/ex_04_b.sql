@@ -9,6 +9,7 @@ WHERE T1.department_code = '54' AND T1.municipality_name LIKE 'San %'
 ORDER BY T1.municipality_name ASC;
 
 /*
-(PASTE HERE the first 10 rows of the result)
-(N rows)
+"54670"	"San Calixto"
+"54673"	"San Cayetano"
+(2 rows)
 */
